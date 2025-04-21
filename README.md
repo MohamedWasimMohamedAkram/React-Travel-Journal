@@ -6,8 +6,7 @@ This is a React project built as part of Bob Ziroll’s **Scrimba React Course**
 
 ## 🚀 Live Demo
 
-Check out the project live here: [Travel Journal Live](https://your-live-link.com)  
-_(Replace the URL above with your actual live site link — e.g. GitHub Pages, Netlify, or Vercel)_
+Check out the project live here: [Travel Journal Live](https://MohamedWasimMohamedAkram.github.io/React-Travel-Journal/)
 
 ---
 
