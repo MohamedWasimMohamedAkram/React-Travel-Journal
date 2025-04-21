@@ -63,7 +63,8 @@ data.js     - Contains destination data to populate the journal
 
 ## 📚 Course
 
-This project is part of the [Bob Ziroll React Course on Scrimba](https://scrimba.com/learn/learnreact).
+This project is part of the [Bob Ziroll React Course on Scrimba](https://scrimba.com/learn/learnreact). <br/>
+You can find the main repo for this course here: [Course Project Repository](https://github.com/MohamedWasimMohamedAkram/React-Bob-Ziroll)
 
 ---
 
